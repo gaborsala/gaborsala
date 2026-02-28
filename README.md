@@ -34,7 +34,7 @@ https://github.com/gaborsala/market-structure-brief
 
 ## Professional Direction
 
-Transitioning toward data-driven finance and analytical roles focused on:
+Focused on data-driven finance and analytical roles centered on:
 
 - Equity research support
 - Financial data analysis
@@ -46,4 +46,5 @@ Transitioning toward data-driven finance and analytical roles focused on:
 ## Contact
 
 LinkedIn: (add your link)
+
 Email: (optional)
