@@ -1,50 +1,58 @@
 # Gabor Sala
 
-System-oriented analyst building deterministic data pipelines for market structure classification.
+System-oriented analyst building structured data workflows for financial market analysis.
 
-Currently focused on:
-
-- Python-based financial data workflows
-- Rule-based analytical systems
-- Reproducible reporting pipelines
-- Structured process discipline
+Currently focused on developing reproducible Python pipelines for financial datasets, combining rule-based analytical systems with disciplined research processes.
 
 ---
 
-## Core Project
+## Core Projects
+
+### Financial Data Analysis Lab
+
+A Python-based environment for exploring financial datasets through structured analytical workflows and reproducible data pipelines.
+
+Repository
+https://github.com/gaborsala/data-analysis-lab
+
+---
 
 ### Market Structure Brief
-Rule-based Python pipeline for deterministic weekly market structure reporting using sector ETF relative strength analysis.
 
-Repository:
+A rule-based Python pipeline for producing structured weekly market analysis reports based on sector relative strength and market structure observations.
+
+Repository
 https://github.com/gaborsala/market-structure-brief
 
 ---
 
 ## Technical Stack
 
-- Python
-- pandas
-- CLI tooling
-- Git & version control
-- Structured markdown reporting
-- Reproducible data workflows
+* Python
+* pandas
+* Command-line tooling
+* Git & version control
+* Structured Markdown reporting
+* Reproducible data workflows
 
 ---
 
 ## Professional Direction
 
-Focused on data-driven finance and analytical roles centered on:
+Developing skills toward data-driven roles in finance, including:
 
-- Equity research support
-- Financial data analysis
-- Systematic workflow design
-- Process-driven reporting
+* Financial data analysis
+* Market structure research
+* Equity research support
+* Analytical workflow design
+* Process-driven reporting systems
 
 ---
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/g%C3%A1bor-sala-0400ba239/
+LinkedIn
+https://www.linkedin.com/in/g%C3%A1bor-sala-0400ba239/
 
-Email: salagabor0@gmail.com
+Email
+[salagabor0@gmail.com](mailto:salagabor0@gmail.com)
