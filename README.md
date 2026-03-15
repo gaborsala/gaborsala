@@ -45,6 +45,6 @@ Focused on data-driven finance and analytical roles centered on:
 
 ## Contact
 
-LinkedIn: (add your link)
+LinkedIn: https://www.linkedin.com/in/g%C3%A1bor-sala-0400ba239/
 
-Email: (optional)
+Email: salagabor0@gmail.com
